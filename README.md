@@ -1,4 +1,3 @@
-# icetagrun
 Privacy Policy for IceTag Run
 Effective Date: 23-06-2025
 IceTag Run is a casual game designed for entertainment only. This game does not collect, store, or share any personal data from its users.
