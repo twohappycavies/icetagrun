@@ -1,2 +1,2 @@
 # icetagrun
-privacy polocy for the app icetagrun
+privacy policy for the app icetagrun
